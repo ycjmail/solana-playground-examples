@@ -1,7 +1,7 @@
 * * *
 
 
-This is from [Solana Playground](https://beta.solpg.io/tutorials/expense-tracker): . I updated it from Anchor 0.29.0 to Anchor 0.30.1 and corrected some errors.
+This is exported from [Solana Playground](https://beta.solpg.io/tutorials/expense-tracker): . I corrected some errors and updated it from Anchor 0.29.0 to Anchor 0.30.1 .
 
 
 

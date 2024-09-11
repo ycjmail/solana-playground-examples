@@ -1,7 +1,7 @@
 * * *
 
 
-This repository is from [Solana Playground](https://beta.solpg.io/) examples . I updated it from Anchor 0.29.0 to Anchor 0.30.1 and corrected some errors.
+This repository is exported from [Solana Playground](https://beta.solpg.io/) examples . I corrected some errors and updated it from Anchor 0.29.0 to Anchor 0.30.1 .
 
 These following examples cover the most common basic use cases of Solana smart contracts.
 
